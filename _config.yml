@@ -1,0 +1,7 @@
+name: tesl
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+pygments: true
+
+baseurl: /tesldocs
+url: http://amattn.github.io/tesldocs/

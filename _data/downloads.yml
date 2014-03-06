@@ -1,0 +1,14 @@
+- name: v0.0.1-proto.1 
+  platforms:
+  - platform: "Mac OS X, 64-bit"
+    urlroot: https://github.com/amattn/tesl/releases/download/v0.0.1-proto.1/tesld_v0.0.1-proto.1_darwin_amd64.tar.gz
+  - platform: "Linux, 64-bit"
+    urlroot: https://github.com/amattn/tesl/releases/download/v0.0.1-proto.1/tesld_v0.0.1-proto.1_linux_amd64.tar.gz
+
+#- name: v0.0.1-proto.2
+#  platforms:
+#  - platform: "Mac OS X, 64-bit"
+#    urlroot: https://github.com/amattn/tesl/releases/download/v0.0.1-proto.1/tesld_v0.0.1-proto.1_darwin_amd64.tar.gz
+#  - platform: "Linux, 64-bit"
+#    urlroot: https://github.com/amattn/tesl/releases/download/v0.0.1-proto.1/tesld_v0.0.1-proto.1_linux_amd64.tar.gz
+
